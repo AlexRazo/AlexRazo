@@ -4,7 +4,7 @@ Computer Engineering student at Grand Canyon University (graduating April 2028),
 
 ## Projects
 
-- **24-Hour Alarm Clock with Temperature Monitoring** - ATmega328P, AVR Assembly, Timer1 interrupts, TMP36 temperature sensor, 16x2 LCD
+- **[24-Hour Alarm Clock with Temperature Monitoring](https://github.com/AlexRazo/avr-alarm-clock)** - ATmega328P, AVR Assembly, Timer1 (CTC mode) timekeeping, 16x2 LCD, TMP36 temperature sensor with fan control
 - **Motion-Activated Trash Can Lid** - ATmega328P, ultrasonic sensor, servo motor
 
 ## Skills
